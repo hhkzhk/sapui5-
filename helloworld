@@ -1,0 +1,3 @@
+	/* eslint-disable no-alert */
+         alert("Hello World");
+         	/* eslint-enable no-alert */
